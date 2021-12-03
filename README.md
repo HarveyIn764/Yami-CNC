@@ -1,2 +1,3 @@
-# Yami-CNC
-Yami CNC For C2 botnet
+# Booter-Api
+Ddos api using 
+apache2 - iptables
